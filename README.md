@@ -16,3 +16,5 @@
 ## 附图
 
 ![课题信息](assets/project-info.png)
+
+![交易截图](assets/trading-snapshot.jpg)
