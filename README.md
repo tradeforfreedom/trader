@@ -4,4 +4,4 @@
 
 ![交易截图](assets/trading-snapshot.jpg)
 
-![微信群二维码](assets/wechat-group-qr.jpg)
+![微信群二维码](assets/wechat-group-qr.png)
